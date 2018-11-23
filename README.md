@@ -1,2 +1,2 @@
-# Ayla-Jo-github.io
+# Ayla-Jo.github.io
 Ayla's personal blog
